@@ -1,0 +1,12 @@
+# Student Data Format:
+# STUDENT|name|id|totalFine
+# BOOK|studentId|bookId|bookTitle|borrowDate|dueDate|returnDate|condition|fine|isReturned
+STUDENT|saivenkat|30442|30.0
+BOOK|30444|B001|Harry Potter and the Phil Stone|2025-04-01|2025-04-15|NULL|Good condition|30.0|false
+BOOK|30444|B009|Linear Algebra kenneth Hoffman 4th edition|2025-04-22|2025-05-06|NULL|damage|0.0|false
+STUDENT|Munu|29989|30.0
+BOOK|29989|B002|Computer Programing Language|2025-03-20|2025-04-03|2025-04-10|Some wear on cover|30.0|true
+STUDENT|nagesh|30443|0.0
+BOOK|30443|B002|Computer Programing Language|2025-04-20|2025-05-04|2025-04-22||0.0|true
+STUDENT|sai|31289|0.0
+BOOK|31289|B009|Linear Algebra kenneth Hoffman 4th edition|2025-04-22|2025-05-06|NULL|good|0.0|false

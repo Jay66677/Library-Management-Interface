@@ -1,0 +1,5 @@
+# Book Data Format: title|author|bookId|numberOfCopies|availableCopies
+Harry Potter and the Phil Stone|J.K Rowling|B001|5|3
+Computer Programing Language|P.S Deshpande|B002|3|2
+Object Oriented Programing|Dr. Hands|B003|10|10
+Linear Algebra kenneth Hoffman 4th edition|Hoffman|B009|6|4
